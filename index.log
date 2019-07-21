@@ -1,0 +1,127 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdftex 2019.7.21)  21 JUL 2019 07:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**index.tex
+(./index.tex
+! Undefined control sequence.
+l.3 \documentclass
+                  [11pt]{article}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {graphicx}
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               {grffile}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               {longtable}
+? 
+! Undefined control sequence.
+l.9 \usepackage
+               {wrapfig}
+? 
+! Undefined control sequence.
+l.10 \usepackage
+                {rotating}
+? 
+! Undefined control sequence.
+l.11 \usepackage
+                [normalem]{ulem}
+? 
+! Undefined control sequence.
+l.12 \usepackage
+                {amsmath}
+? 
+! Undefined control sequence.
+l.13 \usepackage
+                {textcomp}
+? 
+! Undefined control sequence.
+l.14 \usepackage
+                {amssymb}
+? 
+! Undefined control sequence.
+l.15 \usepackage
+                {capt-of}
+? 
+! Undefined control sequence.
+l.16 \usepackage
+                {hyperref}
+? 
+! Undefined control sequence.
+l.17 \author
+            {Surendra Tamang.}
+? 
+! Undefined control sequence.
+l.18 \date
+          {\today}
+? 
+! Undefined control sequence.
+l.18 \date{\today
+                 }
+? 
+! Undefined control sequence.
+l.19 \title
+           {Note of C programming}
+? 
+! Undefined control sequence.
+l.20 \hypersetup
+                {
+? 
+! Undefined control sequence.
+l.27 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.29 \maketitle
+               
+? 
+! Undefined control sequence.
+l.30 \tableofcontents
+                     
+? 
+! Undefined control sequence.
+l.32 \section
+             {Basics of Computer}
+? 
+! Undefined control sequence.
+l.33 \label
+           {sec:orgf60c645}
+? 
+! Undefined control sequence.
+l.34 \subsection
+                {Introduction}
+? 
+! Undefined control sequence.
+l.35 \label
+           {sec:org5eaa96d}
+? 
+! Undefined control sequence.
+l.37 \subsection
+                {Programming}
+? 
+! Undefined control sequence.
+l.38 \label
+           {sec:org8437ce0}
+? 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on index.pdf (1 page, 21547 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
