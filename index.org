@@ -1,0 +1,7 @@
+#+TITLE: Note of C programming
+#+AUTHOR:Surendra Tamang.
+* Basics of Computer
+** Introduction
+Computer is an electronic device used for doing complex mathematical problem.
+** Programming 
+The set of instructions that computer follows to perform certain task.
